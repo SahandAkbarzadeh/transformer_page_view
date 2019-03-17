@@ -99,7 +99,9 @@ Add
 ```bash
 
 transformer_page_view:
-
+    git:
+      url: https://github.com/SahandAkbarzadeh/transformer_page_view.git
+      ref: master
 ```
 to your pubspec.yaml ,and run 
 
